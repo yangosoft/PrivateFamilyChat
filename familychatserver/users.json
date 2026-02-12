@@ -1,0 +1,26 @@
+{
+    "Dad":{
+        "id": 1,
+        "password": "ChangeMe",
+        "token": "TOKEN1",
+        "picture": "/profile_pics/Dad.jpg"
+    },
+    "Mom": {
+        "id": 2,
+        "password": "ChangeMe",
+        "token": "TOKEN2",
+        "picture": "/profile_pics/Mom.png"
+    },
+    "Son": {
+        "id": 3,
+        "password": "ChangeMe",
+        "token": "TOKEN3",
+        "picture": "/profile_pics/Son.jpg"
+    },
+    "Son2": {
+        "id": 4,
+        "password": "ChangeMe",
+        "token": "TOKEN4",
+        "picture": "/profile_pics/Son2.jpg"
+    }
+}

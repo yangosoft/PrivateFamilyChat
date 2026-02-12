@@ -1,0 +1,7 @@
+{
+  "name": "FamilyChat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

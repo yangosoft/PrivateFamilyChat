@@ -1,0 +1,50 @@
+[
+    {
+        "userId": 1,
+        "contactId": 2
+    },
+    {
+        "userId": 1,
+        "contactId": 3
+    },
+    {
+        "userId": 1,
+        "contactId": 4
+    },
+    {
+        "userId": 2,
+        "contactId": 1
+    },
+    {
+        "userId": 2,
+        "contactId": 3
+    },
+    {
+        "userId": 2,
+        "contactId": 4
+    },
+    {
+        "userId": 3,
+        "contactId": 1
+    },
+    {
+        "userId": 3,
+        "contactId": 2
+    },
+    {
+        "userId": 3,
+        "contactId": 4
+    },
+    {
+        "userId": 4,
+        "contactId": 1
+    },
+    {
+        "userId": 4,
+        "contactId": 2
+    },
+    {
+        "userId": 4,
+        "contactId": 3
+    }
+]

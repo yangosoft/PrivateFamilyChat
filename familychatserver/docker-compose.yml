@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  familychatserver:
+    build: .
+    container_name: familychatserver
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+    volumes:
+      - ./dist:/usr/src/app/dist
+      - ./logs:/usr/src/app/logs
+      - ./chats.json:/usr/src/app/chats.json
+      - ./contacts.json:/usr/src/app/contacts.json
+      - ./users.json:/usr/src/app/users.json
+    restart: unless-stopped
